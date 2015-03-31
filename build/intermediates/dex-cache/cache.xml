@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/classes-dc66539adc1f849293dd53d53f34e10d6b4efe25.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4a09b515289dccdbe42f154368957bdedf6a8396.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2e8c06a7aad26ba8d2d5cab8134556594fe36856">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/classes-2ee51c165969542d9d87391739fbb813a589ad44.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/classes-f5f98ddfcf3890d594064b9a2b2651e30198e461.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/libs/reco-sdk-android_0.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="007ee7c1d4d51592636ea66df2d90434d8cd26d6">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/reco-sdk-android_0.1.3-d7abddea3d5aa0f31b1ed4944ae21e194249c6cd.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/libs/ormlite-android-4.49-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecfae85e17f2472852fa8298952f9d52f6a6bfa4">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/ormlite-android-4.49-SNAPSHOT-c4736f2917bffd66f8e0a1e0ad144f9408f2231b.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/libs/reco-sdk-android_0.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="007ee7c1d4d51592636ea66df2d90434d8cd26d6">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/reco-sdk-android_0.1.3-0bf943ff0a72aac8ad477677b8572216366894b0.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/classes-9e46b849e180407f79ce030347089b9f93a6de78.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b7124c220d81a6704bb9420f473919531813d8f2.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/libs/ormlite-android-4.49-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecfae85e17f2472852fa8298952f9d52f6a6bfa4">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/ormlite-android-4.49-SNAPSHOT-e2e0264a57787dc7aff2a4f817231277ff3120ff.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/libs/ormlite-core-4.49-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9a8b276da6dada8141f614d3feba25a0e8589db7">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/ormlite-core-4.49-SNAPSHOT-c03797a639ee760b97807b10917d405b387ade17.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2a3756c574ba02586e90a81fc9cb96feaf75800d.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2e8c06a7aad26ba8d2d5cab8134556594fe36856">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/classes-e1f6c03d03a28faa83dc48181135d314adca1e83.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/richthofen80/Programming/androidPro/demoApp/Application/build/intermediates/pre-dexed/debug/classes-3de21821b11649852ed68a08ce1d2ee3388194a4.jar" />
+    </item>
+    <item
+        jar="/home/richthofen80/Programming/demoApp/Application/libs/ormlite-core-4.49-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9a8b276da6dada8141f614d3feba25a0e8589db7">
+        <dex dex="/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/ormlite-core-4.49-SNAPSHOT-5e4d3201d1bb3a84ab3a221cc88f3e4f2e9afcd3.jar" />
+    </item>
+
+</items>

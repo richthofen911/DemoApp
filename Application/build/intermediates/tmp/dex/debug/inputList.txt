@@ -1,0 +1,9 @@
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/classes/debug
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b7124c220d81a6704bb9420f473919531813d8f2.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/classes-dc66539adc1f849293dd53d53f34e10d6b4efe25.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/reco-sdk-android_0.1.3-0bf943ff0a72aac8ad477677b8572216366894b0.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/classes-2ee51c165969542d9d87391739fbb813a589ad44.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/ormlite-android-4.49-SNAPSHOT-e2e0264a57787dc7aff2a4f817231277ff3120ff.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4a09b515289dccdbe42f154368957bdedf6a8396.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/ormlite-core-4.49-SNAPSHOT-5e4d3201d1bb3a84ab3a221cc88f3e4f2e9afcd3.jar
+/home/richthofen80/Programming/demoApp/Application/build/intermediates/pre-dexed/debug/classes-f5f98ddfcf3890d594064b9a2b2651e30198e461.jar

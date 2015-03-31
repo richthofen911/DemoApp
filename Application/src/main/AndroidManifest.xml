@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="richthofen.app.bluechat.bluechat"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="richthofen.app.bluechat.bluetoothchat.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="DemoApp" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="richthofen.app.bluechat.bluetoothchat.PrivacySettings"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="settings_privacy" />
+        <activity
+            android:name="richthofen.app.bluechat.bluetoothchat.Analytics"
+            android:label="@string/title_activity_analytics" >
+        </activity>
+        <activity
+            android:name="richthofen.app.bluechat.bluetoothchat.ShowListDetail"
+            android:label="@string/title_activity_show_list_detail" >
+        </activity>
+
+        <service android:name="com.perples.recosdk.RECOBeaconService" />
+        <service android:name="richthofen.app.bluechat.bluetoothchat.RECOBackgroundMonitoringService" />
+
+        <activity
+            android:name="richthofen.app.bluechat.bluetoothchat.BeaconID"
+            android:label="@string/title_activity_beacon_id" >
+        </activity>
+    </application>
+
+</manifest>

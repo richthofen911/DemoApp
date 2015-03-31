@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/list_movies"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="#8BE310"
+        android:gravity="center"
+        android:text="Movies"
+        android:textSize="25dp"
+        android:clickable="true"/>
+    <TextView
+        android:id="@+id/list_food"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="#F0EC0E"
+        android:gravity="center"
+        android:text="Food"
+        android:textSize="25dp"
+        android:clickable="true"/>
+    <TextView
+        android:id="@+id/list_songs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:background="#C253DE"
+        android:gravity="center"
+        android:text="Songs"
+        android:textSize="25dp"
+        android:clickable="true"/>
+
+</LinearLayout>

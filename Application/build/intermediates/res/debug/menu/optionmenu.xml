@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/privacy"
+        android:title="privacy"/>
+    <item
+        android:id="@+id/beaconid"
+        android:title="beaconid"/>
+    <item
+        android:id="@+id/analytics"
+        android:title="analytics"/>
+
+</menu>
+<!-- From: file:/home/richthofen80/Programming/demoApp/Application/src/main/res/menu/optionmenu.xml -->

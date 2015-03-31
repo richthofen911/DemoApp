@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="richthofen.app.bluechat.bluetoothchat.BeaconID">
+
+    <TextView
+        android:id="@+id/beacon_uuid"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/beacon_major"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/beacon_uuid"/>
+
+    <TextView
+        android:id="@+id/beacon_minor"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/beacon_major"/>
+
+</RelativeLayout>
+<!-- From: file:/home/richthofen80/Programming/demoApp/Application/src/main/res/layout/activity_beacon_id.xml -->

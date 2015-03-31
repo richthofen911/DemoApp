@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#10AEE3">
+
+    <WebView
+        android:id="@+id/wv_beam"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</RelativeLayout>
+<!-- From: file:/home/richthofen80/Programming/demoApp/Application/src/main/res/layout/fragment_beam.xml -->

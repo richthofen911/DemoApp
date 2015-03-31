@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CE10E3"
+    android:weightSum="1">
+
+    <WebView
+        android:id="@+id/wv_referral"
+        android:layout_width="323dp"
+        android:layout_height="50dp"
+        android:text="Referral"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:background="#FFFFFF"
+        android:layout_weight="0.95" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Email"
+        android:id="@+id/btn_sendEmail"
+        android:layout_gravity="center_horizontal"
+        android:onClick="clickToEmail"/>
+</LinearLayout><!-- From: file:/home/richthofen80/Programming/demoApp/Application/src/main/res/layout/fragment_referral.xml -->
